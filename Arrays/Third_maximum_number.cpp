@@ -1,4 +1,5 @@
 // LeetCode 414 : Third maximum Number
+
 // There are two approaches to this problem
 
 // 1
