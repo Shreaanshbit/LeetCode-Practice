@@ -14,7 +14,7 @@ Problems are grouped by topic for easy navigation:
 - Stack & Queue
 - Trees
 - Graphs
-- Dynamic Programming
+- Miscellaneous
 
 
 ## LeetCode Profile
