@@ -9,7 +9,7 @@ public:
 
         for(int i=0;i<gas.size();i++){
             int diff=gas[i]-cost[i];   //this is the total profit or loss in reaching gas station so if it is negative or or 0 we start at different index
-            total+=diff;
+            total+=diff;              //calculation of total is important bcz at the end of the trip we dont want that tank has negative fuel
             tank+=diff;
 
             if(tank<0){
